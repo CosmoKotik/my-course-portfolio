@@ -5,7 +5,7 @@ Welcome to my academic portfolio for CEP146!
 ## About Me
 - Name: Adrian Stanciu
 - Major: Computer Programming & Analysis
-- Year: 1st Academic Year
+- Year: 1st
 - Favorite Programming Language: .NET C#
 
 ## Course Goals
